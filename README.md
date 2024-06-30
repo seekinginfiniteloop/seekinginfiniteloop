@@ -15,7 +15,7 @@ My interests are diverse and continually changing. They include reinvisioning id
 - **Breathing life into ideas**: I'm crazy good at navigating ambiguous problems and chipping away at abstract ideas.
 - **Writing for humans**: I'm obsessed with plain, approachable writing.
 
-... with all superpowers there's a cost. You can imagine for yourself how each of those can backfire sometimes.
+... all superpowers have a cost. You can imagine for yourself how each of those can backfire sometimes.
 
 ## I'm currently focused on
 
