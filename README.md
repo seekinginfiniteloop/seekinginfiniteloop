@@ -17,9 +17,7 @@ My interests are diverse and continually changing. They include reinvisioning id
 
 ... all superpowers have a cost. You can imagine for yourself how each of those can backfire sometimes.
 
-## I'm currently focused on
-
-## **[ChatHoard](https://github.com/seekinginfiniteloop/ChatHoard)** 
+## Current Focus: **[ChatHoard](https://github.com/seekinginfiniteloop/ChatHoard)** 
 ChatHoard is a FOSS webapp that started as a tool to store and search my LLM chats (e.g. ChatGPT, Claude), but is rapidly growing in scope into a private, collaborative space to mine, organize, share and collaborate on LLM generated content... because I think I'm not the only one who needs a model-agnostic space to make the most of their data. It is built on [FastAPI](https://github.com/tiangolo/fastapi)/[Pydantic](https://github.com/pydantic/pydantic), [React](https://github.com/facebook/react)/[ChakraUI](https://github.com/chakra-ui/chakra-ui), and uses [Qdrant](https://qdrant.tech/)/[DocArray](https://github.com/docarray/docarray) for intelligent vector search. It's designed to be both locally deployable and also massively scalable.
 
 ## My Backburner
