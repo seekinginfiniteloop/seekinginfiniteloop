@@ -2,7 +2,7 @@
 
 I'm an avid pythonista who sometimes finds himself writing Rust, Typescript or Go. I don't work in tech and don't develop professionally, but I aim to write professional code. If my code doesn't meet profesional standards, please tell me; Since I don't work in tech, I can sometimes overlook the obvious approach. On the plus side, I occasionally stumble into novel approaches too. 
 
-My work here is just an extension of **my obsessive need to solve interesting problems** and in the process, go way (**way**) too deep. The problem solving process is what is the part I enjoy the most, at least in my personal life.
+My work here is just an extension of **my obsessive need to solve interesting problems** and in the process, go way (**way**) too deep. The problem solving process is what I enjoy the most, at least in my personal life.
 
 My interests are diverse and are always changing. They include reinvisioning ideas from an AI/ML-first perspective, data science, cryptography, vanquishing non-native plants and sometimes successfully growing natives in their place, and being a human multitool (from car and HVAC maintenance and construction to photography).
 
