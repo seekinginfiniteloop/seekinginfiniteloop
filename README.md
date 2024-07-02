@@ -31,7 +31,7 @@ I have a few projects I intend to get to a stable place eventually...
 -  **Status**: mid-refactor. I originally planned to use Clevis, but thought the implementation was hacky, so I'm refactoring as all-python.
 
 ### **[Amazon_Job_Alertbot](https://github.com/seekinginfiniteloop/Amazon_Job_Alertbot)** 
-- *Mostly* a tongue-in-cheeck project to gain a deep practical understanding of AWS serverless app dev/deployment.
+- *Mostly* a tongue-in-cheek project to gain a deep practical understanding of AWS serverless app dev/deployment.
 - Self-deploying AWS serverless system of microservices that simply checks amazon.jobs and provides better search settings and an alerts agent.
 - The project emerged from my appreciation for irony because [amazon.jobs](amazon.jobs) doesn't offer a job alerts service and I thought...🤔 where better to build an *amazon* job alerts service than AWS?
 - **Status**: Basic service works. I just need to finish the search template generation UI and email templating. Had I known pydantic existed it would have went much faster...
